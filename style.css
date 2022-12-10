@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+body{
+background-color:white;
+text-align:center;
+line-height: 300%;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+background-color:#bee3bb;
+color:white;
+}
+body{
+animation-name: animation1;
+animation-duration: 2.5s;
+animation-timing-function: ease;
+font-size:30px;
+}
+@keyframes animation1{
+0% {opacity:0; }
+100% {opacity:1;}
+}
+#hex{margin:5px 5px;
+}
+#link{
+color:white;
+}
